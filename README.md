@@ -2,7 +2,7 @@
 https://play.google.com/store/apps/details?id=com.mobelista.POTM
 <br><br>
 Hi everyone.
-
+<br><br>
 I work at a factory during the day, and game development has been my dream project for a long time.
 
 A few years ago, I tried making a 2D platformer game by myself because I was mostly interested in programming. But as a solo developer, I eventually realized my limits when it came to art, storytelling, animation, and all the other parts of game development. I ended up giving up on the project.
