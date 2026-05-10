@@ -1,3 +1,4 @@
+<img src="http://mobelista.com/gamedev/wp-content/uploads/2026/05/Screenshot_20260430_223311_Pirates-of-the-Mediterranean.jpg">
 https://play.google.com/store/apps/details?id=com.mobelista.POTM
 
 ‘Pirates of the Mediterranean’ is a witty visual novel that parodies classic pirate adventures while delivering its own original story of risk, greed, and freedom.
