@@ -1,5 +1,5 @@
 <img src="https://github.com/misty761/Pirates-of-the-Mediterranean/blob/main/Screenshot_20260430_223311_Pirates-of-the-Mediterranean.jpg">
-< a href="https://play.google.com/store/apps/details?id=com.mobelista.POTM" target="black">https://play.google.com/store/apps/details?id=com.mobelista.POTM</a>
+<a href="https://play.google.com/store/apps/details?id=com.mobelista.POTM" target="_black">https://play.google.com/store/apps/details?id=com.mobelista.POTM</a>
 <br><br>
 ‘Pirates of the Mediterranean’ is a witty visual novel that parodies classic pirate adventures while delivering its own original story of risk, greed, and freedom.
 
